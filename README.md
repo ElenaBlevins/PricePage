@@ -12,6 +12,5 @@
              3 hours = $10.99 (Includes free pet wash)
              5 hours = $29.99 (Includes free pet food)
              7 hours = $39.99 (Includes free pet food and a T-shirt)
-          </body>
-</html>
+       
 
